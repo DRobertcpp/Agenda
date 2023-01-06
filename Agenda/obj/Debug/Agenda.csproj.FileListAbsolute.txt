@@ -1,0 +1,55 @@
+D:\Marius\Didactic\2013-2014\POO\Laborator\L10\Agenda\Agenda\bin\Debug\Agenda.exe.config
+D:\Marius\Didactic\2013-2014\POO\Laborator\L10\Agenda\Agenda\bin\Debug\Agenda.exe
+D:\Marius\Didactic\2013-2014\POO\Laborator\L10\Agenda\Agenda\bin\Debug\Agenda.pdb
+D:\Marius\Didactic\2013-2014\POO\Laborator\L10\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+D:\Marius\Didactic\2013-2014\POO\Laborator\L10\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+D:\Marius\Didactic\2013-2014\POO\Laborator\L10\Agenda\Agenda\obj\Debug\Agenda.exe
+D:\Marius\Didactic\2013-2014\POO\Laborator\L10\Agenda\Agenda\obj\Debug\Agenda.pdb
+D:\Marius\Didactic\2013-2014\POO\Laborator\L10\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+D:\Marius\Didactic\2013-2014\POO\Laborator\L10\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda\Agenda\bin\Debug\Agenda.exe.config
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda\Agenda\obj\Debug\Agenda.exe
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda\Agenda\obj\Debug\Agenda.pdb
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda\Agenda\bin\Debug\Agenda.exe
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda\Agenda\bin\Debug\Agenda.pdb
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda - Copy\Agenda\bin\Debug\Agenda.exe.config
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda - Copy\Agenda\obj\Debug\Agenda.exe
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda - Copy\Agenda\obj\Debug\Agenda.pdb
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda - Copy\Agenda\bin\Debug\Agenda.exe
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda - Copy\Agenda\bin\Debug\Agenda.pdb
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda - Copy\Agenda\obj\Debug\Agenda.Form1.resources
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda - Copy\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+F:\Marius\Didactic\2015-2016\POO\Laborator\L13\Agenda - Copy\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\acasa\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\acasa\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\acasa\source\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\acasa\source\repos\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\acasa\source\repos\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\acasa\source\repos\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\acasa\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\acasa\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\acasa\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\acasa\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb
+E:\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+E:\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+E:\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+E:\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+E:\repos\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+E:\repos\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+E:\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+E:\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+E:\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+E:\repos\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\Robert\Desktop\Proiecte\Agenda.c#\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\Robert\Desktop\Proiecte\Agenda.c#\Agenda\bin\Debug\Agenda.exe
+C:\Users\Robert\Desktop\Proiecte\Agenda.c#\Agenda\bin\Debug\Agenda.pdb
+C:\Users\Robert\Desktop\Proiecte\Agenda.c#\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+C:\Users\Robert\Desktop\Proiecte\Agenda.c#\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\Robert\Desktop\Proiecte\Agenda.c#\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\Robert\Desktop\Proiecte\Agenda.c#\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\Robert\Desktop\Proiecte\Agenda.c#\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Proiecte\Agenda.c#\Agenda\obj\Debug\Agenda.exe
+C:\Users\Robert\Desktop\Proiecte\Agenda.c#\Agenda\obj\Debug\Agenda.pdb
